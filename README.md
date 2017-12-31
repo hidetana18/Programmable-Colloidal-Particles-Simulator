@@ -1,5 +1,5 @@
 # DNA-Colloids-Simulator
-Codes written in C for molecular dynamics simulation of particles with "specific" and "dynamic" inter-particle interactions.
+Codes written in C for molecular dynamics simulation of brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids)
 
 ![](/Figure1.png)
 
