@@ -12,3 +12,4 @@ Codes written in C for molecular dynamics simulation of brownian particles with 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="700">
 
 
+Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
