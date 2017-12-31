@@ -1,6 +1,16 @@
 # Programmable Colloidal Particles Simulator
 Codes written in C for molecular dynamics simulation of brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids)
 
+Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales.
+
+
+Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
+
+Features:
+
+
+
+
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="600">
 
 <!---
@@ -12,6 +22,3 @@ Codes written in C for molecular dynamics simulation of brownian particles with 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="700">
 
 
-Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
-
-Features:
