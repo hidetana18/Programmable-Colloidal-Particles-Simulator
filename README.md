@@ -3,4 +3,4 @@ Codes written in C for molecular dynamics simulation of particles with "specific
 
 ![](/Figure1.png)
 
-<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="300">
+<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="700">
