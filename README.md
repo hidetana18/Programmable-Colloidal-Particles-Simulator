@@ -4,3 +4,7 @@ Codes written in C for molecular dynamics simulation of brownian particles with 
 
 <img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/Figure1.png" width="700">
 <img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="500">
+
+<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Coll_meet_Bac.jpeg" width="500">
+
+
