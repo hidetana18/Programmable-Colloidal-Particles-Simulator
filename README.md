@@ -13,3 +13,5 @@ Codes written in C for molecular dynamics simulation of brownian particles with 
 
 
 Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
+
+Features:
