@@ -30,49 +30,10 @@ While running, it outputs trajectory of all particles `traj---.dat` and number o
 
 
 
-
+## Summary of the research
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
-
-
+In contrast with the conventional colloidal particles whose interactions are 
 Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
-
-Features:
-
-Basic usage includes:
- * Constant reaction rate
- *
-
-1. `func.c`:
-
-    * `InitialSet()`: set initial conditions
-    * `SetParameters()`
-    * `getProgressRate`
-    * `getReactionRate`
-    * `parse`
-    
-2. `Reaction` class:
-
-    * `updateCoeff`
-    * `updateReaction`
-    
-3. `Simulator` class:
-    * `solveODE`
-    * `check_equilibrium`
-    * `equilibrium_graph`
-    * `plot_specie`
-    * `plot_specie_all`
-    * `plot_reaction_all`
-
-
-
-
-
-
-
-
-<!---
-<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/Figure1.png" width="700">
--->
 
 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="500">
