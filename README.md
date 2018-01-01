@@ -15,6 +15,12 @@ Codes written in C for molecular dynamics simulation of Brownian particles with 
 `func.c`: define functions   
 `main.c`: put the functions together to run the simulation  
 
+### 1, `PyAnalysis`
+
+Python codes in Jupyter notebooks for data analysis and visualization. 
+
+
+
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 
 
