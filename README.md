@@ -5,9 +5,9 @@ H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Repl
 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/repli.gif" width="400">
 
-## Introduction
+## 1. Introduction
 
-### 1. `C-files`
+### `C-files`
 
 Codes written in C for Brownian Dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them.   
 
@@ -18,19 +18,19 @@ Codes written in C for Brownian Dynamics simulation of Brownian particles with p
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
 
 
-### 2, `PyAnalysis`
+### `PyAnalysis`
 
 Python codes in Jupyter notebooks for data analysis and visualization. 
 Main figures presented in the above paper are reproduced.
 
 
-## Basic Usage
+## 2. Basic Usage
 Main Brownian Dynamics simulation codes in `C-files` can be compiled with `makefile`.
 While running, it outputs trajectory of all particles `traj---.dat` and number of self-replicated clusters with each species `NumCl---.dat`. Examples of data analysis and visualization using the output data are presented in the Jupyter notebook.
 
 
 
-## Summary of the research
+## 3. Summary of the research
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 In contrast with the conventional colloidal particles whose interactions are 
 Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
