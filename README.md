@@ -1,7 +1,8 @@
 # Programmable Colloidal Particles Simulator
 This repository presents codes written by Hidenori Tanaka for     
-H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Replicating Colloidal Clusters.”  
+H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Replicating Colloidal Clusters.”   
 [Physical Review Letters, 117, 238004, (2016).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.238004)
+
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/repli.gif" width="400">
 
 ## Introduction
