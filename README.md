@@ -7,9 +7,12 @@ Physical Review Letters, 117, 238004, (2016).
 
 ## Introduction
 
-### 1. `Brownian Dynamics`
+### 1. `C-files`
 
 Codes written in C for molecular dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them. 
+`main.h`: declare various constants and functions to be used   
+`func.c`: define functions   
+`main.c`: put the functions together to run the simulation  
 
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 
