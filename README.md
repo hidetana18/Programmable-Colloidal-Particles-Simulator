@@ -15,6 +15,9 @@ Codes written in C for molecular dynamics simulation of Brownian particles with 
 `func.c`: define functions   
 `main.c`: put the functions together to run the simulation  
 
+<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
+
+
 ### 1, `PyAnalysis`
 
 Python codes in Jupyter notebooks for data analysis and visualization. 
@@ -58,7 +61,7 @@ Basic usage includes:
 
 
 
-<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
+
 
 <!---
 <img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/Figure1.png" width="700">
