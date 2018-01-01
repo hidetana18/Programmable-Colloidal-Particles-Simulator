@@ -18,11 +18,15 @@ Codes written in C for Brownian Dynamics simulation of Brownian particles with p
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
 
 
-### 1, `PyAnalysis`
+### 2, `PyAnalysis`
 
 Python codes in Jupyter notebooks for data analysis and visualization. 
+Main figures presented in the above paper are reproduced.
 
 
+## Basic Usage
+Main Brownian Dynamics simulation codes in `C-files` can be compiled with `makefile`.
+While running, it outputs trajectory of all particles `traj---.dat` and number of self-replicated clusters with each species `NumCl---.dat`.
 
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 
@@ -35,10 +39,10 @@ Basic usage includes:
  * Constant reaction rate
  *
 
-1. `ReactionSystem` class:
+1. `func.c`:
 
-    * `buildFromList`
-    * `buildFromXml`
+    * `InitialSet()`: set initial conditions
+    * `SetParameters()`
     * `getProgressRate`
     * `getReactionRate`
     * `parse`
