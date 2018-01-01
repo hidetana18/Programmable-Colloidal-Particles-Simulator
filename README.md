@@ -3,7 +3,7 @@ This repository presents codes written by Hidenori Tanaka for  
 H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Replicating Colloidal Clusters.”  
 Physical Review Letters, 117, 238004, (2016).
 
-<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="300">
+<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/repli.gif" width="300">
 
 ## Introduction
 Codes written in C for molecular dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them. 
