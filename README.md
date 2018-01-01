@@ -1,5 +1,8 @@
 # Programmable Colloidal Particles Simulator
-Codes written in C for molecular dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them.
+H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Replicating Colloidal Clusters.”
+Physical Review Letters, 117, 238004, (2016).
+
+Codes written in C for molecular dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them. 
 
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 
