@@ -26,7 +26,10 @@ Main figures presented in the above paper are reproduced.
 
 ## Basic Usage
 Main Brownian Dynamics simulation codes in `C-files` can be compiled with `makefile`.
-While running, it outputs trajectory of all particles `traj---.dat` and number of self-replicated clusters with each species `NumCl---.dat`.
+While running, it outputs trajectory of all particles `traj---.dat` and number of self-replicated clusters with each species `NumCl---.dat`. Examples of data analysis and visualization using the output data are presented in the Jupyter notebook.
+
+
+
 
 Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
 
