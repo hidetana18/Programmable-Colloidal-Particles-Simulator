@@ -15,14 +15,14 @@ Features:
 
 
 
-<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="600">
+<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="400">
 
 <!---
 <img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/Figure1.png" width="700">
 -->
 
-<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="500">
+<img src="https://github.com/hidetana18/DNA-Colloids-Simulator/blob/master/GIF.gif" width="300">
 
-<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="700">
+<img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="500">
 
 
