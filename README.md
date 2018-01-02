@@ -13,7 +13,7 @@ Codes written in C for Molecular Dynamics simulation of Brownian particles with 
 
 `main.h`: Declare various constants and functions to be used   
 `func.c`: Define functions   
-`main.c`: Put the functions together to run the simulation  
+`main.c`: Put the functions together to complete iterations 
 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
 
