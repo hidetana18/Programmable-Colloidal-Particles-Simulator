@@ -31,10 +31,7 @@ While running, it outputs trajectory of all particles `traj---.dat` and number o
 
 
 ## 3. Summary of the research
-Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. 
-In contrast with the conventional colloidal particles whose interactions are 
-Thus, this highly efficient code allowed us to conduct the first study of "evolutionary dynamics" of artificial self-replicating materials.
-
+Rapid developments in DNA nanotechnology opened up the new paradigm of "programmable materials" in nano/micron scales. The  DNA mediated "specific" and "dynamic" inter-particle interactions are hard to implement with existing molecular dynamics libraries. To explore the design space, and investigate possibilities for realizing self-replicating artificial living materials, I have developed this molecular dynamics simulation that implements the above self-replication scheme. Finally, this highly efficient codes allowed us to self-replicate hundreds of colloidal clusters, and thus we conducted the first study of "evolutionary dynamics" of artificial self-replicating materials.
 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/Col_meet_Bac.001.jpeg" width="500">
 
