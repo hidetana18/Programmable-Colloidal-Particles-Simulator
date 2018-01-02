@@ -11,9 +11,9 @@ H. Tanaka, Z. Zeravcic, M.P. Brenner “Mutation at Expanding Front of Self-Repl
 
 Codes written in C for Molecular Dynamics simulation of Brownian particles with programmable "specific" and "dynamic" inter-particle interactions. (e.g. DNA colloids) You can assign distinct "species" for each particle and define "interaction matrix" to characterize time-dependent inter-particle interactions among them.   
 
-`main.h`: declare various constants and functions to be used   
-`func.c`: define functions   
-`main.c`: put the functions together to run the simulation  
+`main.h`: Declare various constants and functions to be used   
+`func.c`: Define functions   
+`main.c`: Put the functions together to run the simulation  
 
 <img src="https://github.com/hidetana18/Programmable-Colloidal-Particles-Simulator/blob/master/Images/SelfRepScheme.jpeg" width="500">
 
